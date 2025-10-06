@@ -65,7 +65,7 @@ She hired a data analyst (me) to answer key business questions, such as:
 
 | Focus Area | Insight |
 |-------------|----------|
-| **Bike Inventory** | Certain categories (e.g., mountain bikes, electric bikes) dominate inventory and rentals. |
+| **Bike Inventory** | Certain categories (mountain bikes, electric bikes) dominate inventory and rentals. |
 | **Revenue Trends** | Rental revenue fluctuates by month; strong potential for seasonal offers. |
 | **Membership Revenue** | Memberships significantly contribute to recurring revenue; specific types perform better. |
 | **Winter Offer Simulation** | Applying discounts can boost utilization while maintaining profitability. |
